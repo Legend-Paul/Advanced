@@ -6,3 +6,4 @@ num2 = input("Enter another number: ")
 
 def add(a, b):
     return a + b
+print(sum(even))
