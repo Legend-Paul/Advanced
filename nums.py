@@ -1,9 +1,9 @@
-even = [i for i in range(10) if i % 2 == 0]
-print(even)
+num = [i for i in range(10)]
+print(num)
 
 num1 = input("Enter a number: ")
 num2 = input("Enter another number: ")
 
 def add(a, b):
     return a + b
-print(sum(even))
+print(sum(num))
